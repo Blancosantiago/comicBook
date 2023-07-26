@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "comicslibrary",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=APPENVURL=https://comicvine.gamespot.com/api",
+                "--dart-define=ENV_VAR_API_KEY_COMIC=6f7e42c1a04a1903ca5c2a635e441781e12a537b&",
+            ],
+        },
+        {
+            "name": "comicslibrary (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
