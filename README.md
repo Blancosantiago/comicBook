@@ -34,6 +34,3 @@ Optionals
 Documentation - The primary publisher a character is attached to., (✓)
 
 
-En el caso de uso podemos ver el uso de resposabilidad unica 
-Las variables como "apiComic" y "apiComic"  se definen en el launch.json
-Se trato de implementar de la mejor manera arquitectura limpia en el codigo 
